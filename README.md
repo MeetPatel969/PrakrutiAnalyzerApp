@@ -11,7 +11,7 @@ The Prakruti Analyzer App is a desktop application built using C# and WPF that h
 
 ## Installation steps:
 
-git clone 
+git clone https://github.com/MeetPatel969/PrakrutiAnalyzerApp
 
 ## How to run:
 
