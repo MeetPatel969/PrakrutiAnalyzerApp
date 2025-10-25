@@ -7,7 +7,7 @@
 - Class - 7D
 
 ## Description:
-The Prakruti Analyzer App is a desktop application built using React that helps users determine their Ayurvedic body type (dosha). Through a multiple-choice quiz based on Ayurvedic principles, the app calculates users' dominant doshas — Vata, Pitta, and Kapha — and presents personalized results.
+The Prakruti Analyzer App is a desktop application built using React that helps users determine their Ayurvedic body type (dosha). Through a multiple-choice quiz based on Ayurvedic principles, the app calculates user's dominant doshas — Vata, Pitta, and Kapha — and presents personalized results.
 
 ## Installation steps:
 
